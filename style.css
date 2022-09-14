@@ -1,0 +1,7 @@
+body{
+    color: white;
+    font-family: monospace;
+    background-image: conic-gradient(red , yellow , green , cyan , blue);
+    text-align: center;
+    font-size: 20px;
+}
